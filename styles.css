@@ -1,11 +1,30 @@
 
 
 h1 {
-    color: #4d6198;
+    color: #2f3a63;
     text-align: center;
 }
 
+ul {
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+   
+    padding: 10px 10px;
+}
+
+
 a {
-    font-size: 20px;
-    color: #553119;
+    font-size: 25px;
+    color: #908b92;
+    text-decoration: none;
+    
+
+}
+
+img {
+    margin:auto;
+    display: block
 }
